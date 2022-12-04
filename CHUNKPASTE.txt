@@ -1,0 +1,76 @@
+# This is the Database of ChunkLoader v1.0.9.
+# /-----------------------/WARNING/-----------------------/
+#
+#  !!!  DO NOT CHANGE ANYTHING  !!! 
+#
+# /-----------------------/WARNING/-----------------------/
+
+version: 1.0.9
+Force Chunkload: true
+Groups: {}
+Status: enabled
+Chunks:
+- 3, 13, world
+- 3, 14, world
+- 3, 32, world
+- 3, 31, world
+- 3, 30, world
+- 3, 29, world
+- 3, 28, world
+- 3, 27, world
+- 3, 26, world
+- 2, 26, world
+- 2, 25, world
+- 3, 25, world
+- 3, 24, world
+- 2, 24, world
+- 2, 23, world
+- 2, 22, world
+- 2, 21, world
+- 2, 20, world
+- 3, 20, world
+- 4, 20, world
+- 4, 19, world
+- 2, 19, world
+- 3, 19, world
+- 2, 18, world
+- 3, 18, world
+- 4, 18, world
+- 4, 17, world
+- 3, 17, world
+- 2, 17, world
+- 2, 16, world
+- 3, 16, world
+- 4, 16, world
+- 4, 15, world
+- 3, 15, world
+- 2, 15, world
+- 2, 14, world
+- 4, 14, world
+- 5, 8, world
+- 5, 7, world
+- 5, 6, world
+- 5, 5, world
+- 3, 22, world
+- 3, 23, world
+- 1, 23, world
+- 1, 24, world
+- 1, 25, world
+- 1, 26, world
+- 2, 27, world
+- 1, 27, world
+- 1, 28, world
+- 2, 28, world
+- 2, 29, world
+- 1, 29, world
+- 1, 30, world
+- 2, 30, world
+- 2, 31, world
+- 1, 31, world
+- 2, 32, world
+- 1, 32, world
+- 4, 32, world
+
+
+
+
