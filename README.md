@@ -1,5 +1,5 @@
 # Parkuzzle
-A parkour/puzzle minecraft map with action mixed within!
+A two-player parkour/puzzle minecraft map with action mixed within!
 
 How to play:
 
