@@ -8,6 +8,6 @@ How to play:
 3. Upload the ZIP Archive to Worlds 
 4. Software --> Spigot/Bukkit
 5. Plugins --> Download WorldGuard, World Edit, and ChunkLoaderv.1.0.9
-6. Paste CHUNKPASTE in the config for Chunkloader and paste GUARDPASTE in the config for WorldGuard
+6. Paste the contents of CHUNKPASTE in the config for Chunkloader and paste the contents of GUARDPASTE in the config for WorldGuard
 
 Sorry you have to do all this, it is a bit finnicky with Aternos.
