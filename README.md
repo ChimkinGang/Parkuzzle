@@ -10,5 +10,6 @@ How to play:
 5. Plugins --> Download WorldGuard, World Edit, and ChunkLoaderv.1.0.9
 6. Start the world  
 7. Paste the contents of CHUNKPASTE in the config (Files --> Plugins) for Chunkloader and paste the contents of GUARDPASTE in the config for WorldGuard
+8. Restart the world
 
 Sorry you have to do all this, it is a bit finnicky with Aternos.
